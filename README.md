@@ -1,3 +1,3 @@
 # binoxxo
 
-A common lisp programm for using binoxxo puzzels. For details see README.txt.
+A common lisp program for solving binoxxo puzzels. For details see README.txt.
